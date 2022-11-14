@@ -1,3 +1,12 @@
+.chat-window{
+color: white;
+background-color:#000000;	
+border-radius:5px;
+
+
+}
+
+
 input[type=text] {
   background-color: #3CBC8D;
   color: white;
